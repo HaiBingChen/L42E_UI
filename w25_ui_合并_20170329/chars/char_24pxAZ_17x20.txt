@@ -1,0 +1,30 @@
+目标文件:E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\letter\char_24pxAZ_17x20.bin   大小:0x00003D18
+各部分大小如下:
+
+索引                        文件名                                                                       大小              偏移量            强制插入
+ 1      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_A_17x20.bin        0x000002A8        0x00000000             否
+ 2      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_B_15x20.bin        0x00000258        0x000002A8             否
+ 3      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_C_15x20.bin        0x00000258        0x00000500             否
+ 4      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_D_15x20.bin        0x00000258        0x00000758             否
+ 5      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_E_14x20.bin        0x00000230        0x000009B0             否
+ 6      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_F_14x20.bin        0x00000230        0x00000BE0             否
+ 7      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_G_16x20.bin        0x00000280        0x00000E10             否
+ 8      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_H_16x20.bin        0x00000280        0x00001090             否
+ 9      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_I_6x20.bin         0x000000F0        0x00001310             否
+ 10      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_J_12x20.bin       0x000001E0        0x00001400             否
+ 11      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_K_16x20.bin       0x00000280        0x000015E0             否
+ 12      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_L_13x20.bin       0x00000208        0x00001860             否
+ 13      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_M_19x20.bin       0x000002F8        0x00001A68             否
+ 14      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_N_15x20.bin       0x00000258        0x00001D60             否
+ 15      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_O_16x20.bin       0x00000280        0x00001FB8             否
+ 16      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_P_15x20.bin       0x00000258        0x00002238             否
+ 17      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_Q_16x20.bin       0x00000280        0x00002490             否
+ 18      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_R_15x20.bin       0x00000258        0x00002710             否
+ 19      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_S_15x20.bin       0x00000258        0x00002968             否
+ 20      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_T_15x20.bin       0x00000258        0x00002BC0             否
+ 21      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_U_17x20.bin       0x000002A8        0x00002E18             否
+ 22      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_V_15x20.bin       0x00000258        0x000030C0             否
+ 23      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_W_20x20.bin       0x00000320        0x00003318             否
+ 24      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_X_15x20.bin       0x00000258        0x00003638             否
+ 25      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_Y_14x20.bin       0x00000230        0x00003890             否
+ 26      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\大写字母_24px\batch\char_24pxAZ_Z_15x20.bin       0x00000258        0x00003AC0             否

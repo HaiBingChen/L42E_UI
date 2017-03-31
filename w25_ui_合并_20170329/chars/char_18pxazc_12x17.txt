@@ -1,0 +1,16 @@
+目标文件:E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\chars\char_18_pxazc_12x17.bin   大小:0x00000AE4
+各部分大小如下:
+
+索引                        文件名                                                                           大小              偏移量            强制插入
+ 1      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\小写字母_18px\batch\char_18pxazc_#_12x17.bin           0x00000198        0x00000000             否
+ 2      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\小写字母_18px\batch\char_18pxazc_asterisk_8x17.bin     0x00000110        0x00000198             否
+ 3      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\小写字母_18px\batch\char_18pxazc_colon_4x17.bin        0x00000088        0x000002A8             否
+ 4      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\小写字母_18px\batch\char_18pxazc_comma_5x17.bin        0x000000AA        0x00000330             否
+ 5      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\小写字母_18px\batch\char_18pxazc_excl_4x17.bin         0x00000088        0x000003DA             否
+ 6      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\小写字母_18px\batch\char_18pxazc_minus_6x17.bin        0x000000CC        0x00000462             否
+ 7      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\小写字母_18px\batch\char_18pxazc_point_5x17.bin        0x000000AA        0x0000052E             否
+ 8      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\小写字母_18px\batch\char_18pxazc_puls_11x17.bin        0x00000176        0x000005D8             否
+ 9      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\小写字母_18px\batch\char_18pxazc_question_10x17.bin    0x00000154        0x0000074E             否
+ 10      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\小写字母_18px\batch\char_18pxazc_singlequo_5x17.bin   0x000000AA        0x000008A2             否
+ 11      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\小写字母_18px\batch\char_18pxazc_slash_10x17.bin      0x00000154        0x0000094C             否
+ 12      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\小写字母_18px\batch\char_18pxazc_space_2x17.bin       0x00000044        0x00000AA0             否

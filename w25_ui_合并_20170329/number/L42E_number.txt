@@ -1,0 +1,22 @@
+目标文件:E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\L42E_number.bin   大小:0x0002284A
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_18px_12x13.bin        0x00000C30        0x00000000             否
+ 2      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_18pxc_5x13.bin        0x000000EA        0x00000C30             否
+ 3      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_24px_14x18.bin        0x000013B0        0x00000D1A             否
+ 4      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_24pxc_10x18.bin        0x00000360        0x000020CA             否
+ 5      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_30px_17x21.bin        0x00001BE4        0x0000242A             否
+ 6      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_30pxc_11x21.bin        0x00000444        0x0000400E             否
+ 7      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_36px_20x27.bin        0x00002A30        0x00004452             否
+ 8      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_36pxc_13x27.bin        0x0000061E        0x00006E82             否
+ 9      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_45px_24x32.bin        0x00003C00        0x000074A0             否
+ 10      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_45pxc_16x32.bin        0x00000780        0x0000B0A0             否
+ 11      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_72px_35x53.bin        0x000090EC        0x0000B820             否
+ 12      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_72pxc_9x53.bin        0x000003BA        0x0001490C             否
+ 13      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_raw_24px_11x18.bin        0x00000F78        0x00014CC6             否
+ 14      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_raw_24pxc_8x18.bin        0x00000318        0x00015C3E             否
+ 15      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_raw_48px_20x36.bin        0x00003840        0x00015F56             否
+ 16      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_raw_48pxc_16x36.bin        0x00000A20        0x00019796             否
+ 17      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_raw_72px_30x54.bin        0x00007E90        0x0001A1B6             否
+ 18      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_raw_72pxc_19x54.bin        0x00000804        0x00022046             否
