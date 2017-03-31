@@ -1,7 +1,0 @@
-目标文件:E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\number\number_raw_24pxc_8x18.bin   大小:0x00000318
-各部分大小如下:
-
-索引                        文件名                                                                                 大小              偏移量            强制插入
- 1      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\数字（粗）_24px\batch\number_raw_24pxc_bars_8x18.bin         0x00000120        0x00000000             否
- 2      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\数字（粗）_24px\batch\number_raw_24pxc_colon_6x18.bin        0x000000D8        0x00000120             否
- 3      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\数字（粗）_24px\batch\number_raw_24pxc_point_8x18.bin        0x00000120        0x000001F8             否

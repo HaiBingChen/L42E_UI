@@ -1,5 +1,0 @@
-目标文件:E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\timer1\L42E_timer1.bin   大小:0x000012FC
-各部分大小如下:
-
-索引                        文件名                                            大小              偏移量            强制插入
- 1      E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\timer1\timer1_icon.bin        0x000012FC        0x00000000             否
