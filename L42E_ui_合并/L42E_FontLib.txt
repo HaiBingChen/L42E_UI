@@ -6,5 +6,5 @@
  2      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\number\L42E_number.bin        0x0002284A        0x0001CD2C             否
  3      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\bar\L42E_bar.bin              0x00000972        0x0003F576             否
  4      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\L42E_icon.bin            0x00093AF6        0x0003FEE8             否
- 5      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\timer_premiere\timer_premiere.bin        0x000012FC        0x000D39DE             否
- 6      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\timer_spot\timer_spot.bin        0x00000140        0x000D4CDA             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\timer_premiere\L42E_timer_premiere.bin        0x000012FC        0x000D39DE             否
+ 6      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\timer_spot\L42E_timer_spot.bin        0x00000140        0x000D4CDA             否

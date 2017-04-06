@@ -28,14 +28,14 @@
  24      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZ_X_11x15.bin        0x0000014A        0x00002094             ·ñ
  25      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZ_Y_12x15.bin        0x00000168        0x000021DE             ·ñ
  26      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZ_Z_12x15.bin        0x00000168        0x00002346             ·ñ
- 27      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_#_11x15.bin        0x0000014A        0x000024AE             ·ñ
- 28      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_asterisk_9x15.bin        0x0000010E        0x000025F8             ·ñ
- 29      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_colon_5x15.bin        0x00000096        0x00002706             ·ñ
- 30      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_comma_4x15.bin        0x00000078        0x0000279C             ·ñ
- 31      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_excl_4x15.bin        0x00000078        0x00002814             ·ñ
- 32      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_minus_6x15.bin        0x000000B4        0x0000288C             ·ñ
- 33      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_plus_10x15.bin        0x0000012C        0x00002940             ·ñ
- 34      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_point_4x15.bin        0x00000078        0x00002A6C             ·ñ
+ 27      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_asterisk_9x15.bin        0x0000010E        0x000024AE             ·ñ
+ 28      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_colon_5x15.bin        0x00000096        0x000025BC             ·ñ
+ 29      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_comma_4x15.bin        0x00000078        0x00002652             ·ñ
+ 30      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_excl_4x15.bin        0x00000078        0x000026CA             ·ñ
+ 31      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_minus_6x15.bin        0x000000B4        0x00002742             ·ñ
+ 32      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_plus_10x15.bin        0x0000012C        0x000027F6             ·ñ
+ 33      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_point_4x15.bin        0x00000078        0x00002922             ·ñ
+ 34      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_pound_11x15.bin        0x0000014A        0x0000299A             ·ñ
  35      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_question_10x15.bin        0x0000012C        0x00002AE4             ·ñ
  36      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_singlequo_4x15.bin        0x00000078        0x00002C10             ·ñ
  37      E:\appscomm\L42E\ui\l42E\L42E_ui\´óÐ´×ÖÄ¸_18px\batch\char_18pxAZc_slash_9x15.bin        0x0000010E        0x00002C88             ·ñ
